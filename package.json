@@ -1,0 +1,22 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "This is an Amazon-like storefront using MySQL. The app takes in orders from customers and updates the store's inventory.",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "node bamazonCustomer.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saularevalo8/bamazon.git"
+  },
+  "author": "saul arevalo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saularevalo8/bamazon/issues"
+  },
+  "homepage": "https://github.com/saularevalo8/bamazon#readme",
+  "dependencies": {
+    "console.table": "^0.8.0"
+  }
+}
